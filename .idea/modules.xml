@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Scorekeeper-master\Scorekeeper-master\Scorekeeper.iml" filepath="D:\Scorekeeper-master\Scorekeeper-master\Scorekeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scorekeeper-master.iml" filepath="$PROJECT_DIR$/Scorekeeper-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Scorekeeper-master\Scorekeeper-master\app\app.iml" filepath="D:\Scorekeeper-master\Scorekeeper-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
